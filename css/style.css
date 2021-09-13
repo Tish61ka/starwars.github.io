@@ -72,7 +72,7 @@ body {
 .big-pic {
   height: calc(100vh - 80px);
   width: 100%;
-  background: url(https://www.mldspot.com/sites/default/files/field/image/StarWars-Aug2016.jpg) 50% / cover;
+  background: url(https://yandex.ru/images/search?text=star%20wars%20heroes%20of%20galaxy&from=tabbar&pos=5&img_url=https%3A%2F%2Fapptrigger.com%2Ffiles%2F2015%2F11%2FStar-Wars_-Galaxy-of-Heroes-Splash-Art.jpg&rpt=simage) 50% / cover;
 }
 
 .split {
